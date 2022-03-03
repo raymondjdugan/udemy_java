@@ -1,3 +1,5 @@
+package operator_challenge;
+
 public class operatorChallenge {
     public static void main(String[] args) {
         double twenty = 20.00d;
