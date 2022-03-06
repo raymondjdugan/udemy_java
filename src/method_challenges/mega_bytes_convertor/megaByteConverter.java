@@ -1,4 +1,4 @@
-package mega_bytes_convertor;
+package method_challenges.mega_bytes_convertor;
 
 public class megaByteConverter {
     public static void printMegaBytesAndKiloBytes(int kiloBytes) {
