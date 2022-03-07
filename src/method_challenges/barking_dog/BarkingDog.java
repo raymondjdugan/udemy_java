@@ -13,6 +13,6 @@ public class BarkingDog {
         System.out.println(shouldWakeUp(false, 2));
         System.out.println(shouldWakeUp(true, 8));
         System.out.println(shouldWakeUp(true, -1));
-        System.out.println(shouldWakeUp(true, 0));
+        System.out.println(shouldWakeUp(true, 44));
     }
 }
