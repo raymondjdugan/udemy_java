@@ -1,0 +1,113 @@
+Udemy
+Java Programming Masterclass covering Java 11 & Java 17
+Area Calculator
+Write a method named area with one double parameter named radius.
+
+The method needs to return a double value that represents the area of a circle.
+
+If the parameter radius is negative then return -1.0 to represent an invalid value.
+
+Write another overloaded method with 2 parameters x and y (both doubles), where x and y represent the sides of a rectangle.
+
+The method needs to return an area of a rectangle.
+
+If either or both parameters is/are a negative return -1.0 to indicate an invalid value.
+
+For formulas and PI value please check the tips below.
+
+Examples of input/output:
+
+area(5.0); should return 78.53975
+
+area(-1);  should return -1 since the parameter is negative
+
+area(5.0, 4.0); should return 20.0 (5 * 4 = 20)
+
+area(-1.0, 4.0);  should return -1 since first the parameter is negative
+
+
+
+
+
+TIP: ​The formula for calculating the area of a rectangle is x * y.
+
+TIP: ​The formula for calculating a circle area is radius * radius * PI.
+
+TIP: For PI use a constant from Math class e.g. Math.PI
+
+NOTE: All methods need to be defined as public static ​like we have been doing so far in the course.
+
+NOTE: Do not add a main method to your solution code!
+
+  
+Line 1, Column 1
+All changes saved
+43. Introduction
+1min
+44. Keywords And Expressions
+7min
+45. Statements, Whitespace and Indentation (Code Organization)
+9min
+46. Code Blocks And The If Then Else Control Statements
+17min
+47. if then else Recap
+4min
+48. Methods In Java
+18min
+49. More On Methods And A Challenge
+16min
+50. Method Challenge - Final Code Changes
+7min
+51. DiffMerge Tool Introduction
+2min
+52. Install DiffMerge
+2min
+53. Using DiffMerge
+17min
+54. Coding Exercises
+13min
+55. Coding Exercises Example Part 1
+11min
+56. Coding Exercises Example Part 2
+12min
+57. Coding Exercises Example Part 3
+10min
+Coding Exercise 1: Speed Converter
+Coding Exercise 2: MegaBytes Converter
+Coding Exercise 3: Barking Dog
+Coding Exercise 4: Leap Year Calculator
+Coding Exercise 5: DecimalComparator
+Coding Exercise 6: Equal Sum Checker
+Coding Exercise 7: Teen Number Checker
+58. Method Overloading
+27min
+59. Method Overloading Recap
+4min
+60. Seconds and Minutes Challenge
+14min
+61. Bonus Challenge Solution
+11min
+Coding Exercise 8: Area Calculator
+Coding Exercise 9: Minutes To Years and Days Calculator
+Coding Exercise 10: Equality Printer
+Coding Exercise 11: Playing Cat
+Teach the world online
+Create an online video course, reach students across the globe, and earn money
+Top companies choose Udemy Business to build in-demand career skills.
+NasdaqVolkswagenBoxNetAppEventbrite
+Udemy Business
+Teach on Udemy
+Get the app
+About us
+Contact us
+Careers
+Blog
+Help and Support
+Affiliate
+Investors
+Terms
+Privacy policy
+Cookie settings
+Sitemap
+Accessibility statement
+© 2022 Udemy, Inc.
