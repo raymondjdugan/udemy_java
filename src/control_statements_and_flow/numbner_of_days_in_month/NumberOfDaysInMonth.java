@@ -10,7 +10,7 @@ public class NumberOfDaysInMonth {
         return false;
     }
     public static int getDaysInMonth(int month, int year) {
-        if (!isLeapYear(year) || month <= 1 || month >= 12)){
+        if (month < 1 || month > 12 || year < 1 || year > 9999){
             return -1;
         }
         if (isLeapYear(year) && month == 2) {
@@ -30,8 +30,10 @@ public class NumberOfDaysInMonth {
             case 9:
             case 11:
                 return 30;
+            case 2:
+                return 28;
         }
-        return 28;
+        return -1;
     }
 
     public static void main(String[] args) {
