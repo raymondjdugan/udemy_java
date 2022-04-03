@@ -1,4 +1,4 @@
-package classes.sum_calculator;
+package classes.simple_calculator;
 
 public class SimpleCalculator {
     private double firstNumber;
